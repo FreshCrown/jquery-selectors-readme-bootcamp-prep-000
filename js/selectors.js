@@ -1,2 +1,2 @@
 // declare your functions here...
-$("paragraphSelector8*")
+$("paragraphSelector*")
