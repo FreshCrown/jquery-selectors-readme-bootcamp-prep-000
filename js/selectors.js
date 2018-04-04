@@ -1,5 +1,5 @@
 // declare your functions here...
 
-var p =
+var p =paragraphSelector
 
-$('paragraphSelector')
+$('')
